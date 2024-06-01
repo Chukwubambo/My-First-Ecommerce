@@ -26,4 +26,4 @@ const sr = ScrollReveal ({
 
 sr.reveal('.home-text',{delay:200, origin:'top'});
 sr.reveal('.home-img',{delay:300, origin:'top'});
-sr.reveal('.feature, .product, .cta.content, .contact',{delay:300, origin:'top'});
+sr.reveal('.feature, .product, .cta-content, .contact',{delay:300, origin:'top'});
